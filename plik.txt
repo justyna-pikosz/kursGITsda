@@ -1,3 +1,1 @@
 Inna wersja tego pliku nadpisze poprzedni.
-
-Dodanie nowej funkcjonalności.
